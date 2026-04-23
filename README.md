@@ -9,9 +9,9 @@
 | Dataset ID | `727427` |
 | Location | Cicero |
 | Category | Restaurants |
-| Full dataset size | 55 records |
-| Free sample size | 5 records (9.09%) |
-| Last export | 2026-04-16T19:21:45.942889+00:00 |
+| Full dataset size | 56 records |
+| Free sample size | 5 records (8.93%) |
+| Last export | 2026-04-23T15:03:36.064785+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cicero-illinois-us-sample-727427/releases/download/sample-latest/beamstation_727427_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
