@@ -1,12 +1,12 @@
 {
-  "export_job_id": "293e1122-207b-4436-ad01-c0227531a240",
+  "export_job_id": "5fe64d0a-55cc-4628-a0a2-d6764360afd8",
   "id_short": 727427,
-  "published_at": "2026-04-19T19:46:46Z",
+  "published_at": "2026-04-23T19:48:54Z",
   "repo_name": "all-restaurants-in-cicero-illinois-us-sample-727427",
   "sample_asset_name": "beamstation_727427_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/727427/beamstation_727427_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "a8886bba1e417beaba00bc173615751513db5d9bab204ab55faa0481aacedab5",
-  "sample_size_bytes": 32092,
-  "total_records": 55
+  "sample_sha256": "6156846bfccf7624dbcdcd4f68acd37f326601d1601961372f8460f68b4dd6e2",
+  "sample_size_bytes": 33362,
+  "total_records": 56
 }
